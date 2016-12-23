@@ -1,12 +1,7 @@
-#show-contact {
-  display: none;
+.well {
+  margin: 3px;
 }
 
-.contact {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.contact:hover {
-  text-decoration: underline;
+.alter {
+  background-color: #ADD8E6;
 }
