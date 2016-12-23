@@ -5,3 +5,7 @@
 .alter {
   background-color: #ADD8E6;
 }
+
+.alter-submit {
+  display: none;
+}

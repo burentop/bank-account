@@ -24,6 +24,7 @@ $(document).ready(function() {
 
     $("#new-name").val("");
     $("#initial-deposit").val("");
+    $(".alter-submit").show();
 
     $("form#alter-balance").submit(function(event) {
       event.preventDefault();
